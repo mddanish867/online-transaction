@@ -17,7 +17,7 @@ const Navbar = () => {
             <div className="row align-items-center">
               <div className="col-6">
                 <div className="d-flex mr-auto">
-                  {/* <a href="#" className="d-flex align-items-center mr-4">
+                  <a href="#" className="d-flex align-items-center mr-4">
                     <span className="icon-envelope mr-2"></span>
                     <span className="d-none d-md-inline-block">
                       info@domain.com
@@ -28,8 +28,7 @@ const Navbar = () => {
                     <span className="d-none d-md-inline-block">
                       +1 234 4567 8910
                     </span>
-                  </a> */}
-                                  <input type="text" className="searchbar" placeholder="Search for Product, Services"></input>
+                  </a>
 
                 </div>                
               </div>
@@ -58,7 +57,7 @@ const Navbar = () => {
             <div className="row align-items-center">
               <div className="col-2">
                 <h1 className="my-0 site-logo">
-                  <a href="#">Brand</a>
+                  <a href="#">Horizon</a>
                 </h1>
               </div>
               <div className="col-10">
